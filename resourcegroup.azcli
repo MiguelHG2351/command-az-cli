@@ -1,0 +1,1 @@
+az group --resource-group platzi-redis --location eastus
